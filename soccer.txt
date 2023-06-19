@@ -1,0 +1,22 @@
+Alabama        Crimson Tide   0813
+Arkansas       Razorbacks     0322
+Arkansas St.   Red Wolves     0301
+Auburn         Tigers         0517
+Florida        Gators         0216
+Georgia        Bulldogs       0416
+Georgia Tech   Yellowjackets  0200
+Jackson St.    Tigers         0400
+Kentucky       Wildcats       0614
+LSU            Tigers         0321
+Louisiana Tech Bulldogs       0300
+Memphis        Tigers         0608
+Missouri       Tigers         0304
+Ole Miss       Rebels         0715
+South Alabama  Jaguars        0805
+South Carolina Gamecocks      0512
+Southern Miss  Golden Eagles  0802
+Tennessee      Volunteers     0216
+Texas A&M      Aggies         0009
+Tulane         Green Wave     0401
+UAB            Blazers        0304
+Vanderbilt     Commodores     0219

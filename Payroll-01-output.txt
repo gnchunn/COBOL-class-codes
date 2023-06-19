@@ -1,0 +1,14 @@
+DEPT EMP NUM EMP NAME                          EMP HRS EMP PAY
+---- ------- --------                          ------- -------
+ 1  1001  Pearson, Drew                         40     0.00
+ 1  1002  Pearson, Allison                      55   210.00
+ 1  1003  Hodges, Julia                         35   962.50
+ 1  1004  Russell, Kayla                        10   428.75
+ 2  2001  McNulty, Thad                         12    52.50
+ 2  2002  Logan, Buck                           12    78.00
+ 3  3001  Gilligan, Thom                        40    84.00
+ 3  3002  Doyle, Fred                            8   398.00
+ 3  3003  Hurst, Brad                           85    80.00
+ 3  3004  Wallace, Gary                          1   743.75
+---- ------- --------                          ------- -------
+ 10 employees      298 hrs worked          $3,043.75 gross pay

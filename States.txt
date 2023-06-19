@@ -1,0 +1,51 @@
+01ALeAlabama             04447100050750
+02AKwAlaska              00626932570374
+03AZwArizona             05130632113642
+04ARwArkansas            02673400052075
+05CAwCalifornia          33871648155973
+06COwColorado            04301261103729
+07CTeConnecticut         03405565004845
+08DEeDelaware            00783600001955
+09DCeDistrict of Columbia00572059000061
+10FLeFlorida             15982378053937
+11GAeGeorgia             08186453057919
+12HIwHawaii              01211537006423
+13IDwIdaho               01293953082751
+14ILeIllinois            12419293055593
+15INeIndiana             06080485035870
+16IAwIowa                02926324055875
+17KSwKansas              02688418081823
+18KYeKentucky            04041769039732
+19LAwLouisiana           04468976043566
+20MEeMaine               01274923030865
+21MDeMaryland            05296486009775
+22MAeMassachusetts       06349097007838
+23MIeMichigan            09938444056809
+24MNwMinnesota           04919479079617
+25MSeMississippi         02844658046914
+26MOwMissouri            05595211068898
+27MTwMontana             00902195145556
+28NEwNebraska            01711263076878
+29NVwNevada              01998257109806
+30NHeNew Hampshire       01235786008969
+31NJeNew Jersey          08414350007419
+32NMwNew Mexico          01819046121364
+33NYeNew York            18976457047224
+34NCeNorth Carolina      08049313048718
+35NDwNorth Dakota        00642200068994
+36OHeOhio                11353140040953
+37OKwOklahoma            03450654068679
+38ORwOregon              03421399096002
+39PAePennsylvania        12281054044820
+40RIeRhode Island        01048319001045
+41SCeSouth Carolina      04012012030111
+42SDwSouth Dakota        00754844075896
+43TNeTennessee           05689283041219
+44TXwTexas               20851820261914
+45UTwUtah                02233169082168
+46VTeVermont             00608827009249
+47VAeVirginia            07078515039598
+48WAwWashington          05894121066581
+49WVeWest Virginia       01808344024807
+50WIeWisconsin           05363675054314
+51WYwWyoming             00493782097105

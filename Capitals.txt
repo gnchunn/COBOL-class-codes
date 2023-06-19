@@ -1,0 +1,50 @@
+ALMontgomery     2057641846 2
+AKJuneau          312751906 3
+AZPhoenix       14456321889 1
+ARLittle Rock    1935241821 1
+CASacramento     4664881854 6
+CODenver         6001581867 1
+CTHartford       1247751875 3
+DEDover           360471777 2
+FLTallahassee    1908941824 7
+GAAtlanta        4200031868 1
+HIHonolulu       3372561845 1
+IDBoise          2056711865 1
+ILSpringfield    1162501837 6
+INIndianapolis   8297181825 1
+IADes Moines     2034331857 1
+KSTopeka         1274731856 4
+KYFrankfort       25527179214
+LABaton Rouge    2295531880 2
+MEAugusta         191361832 8
+MDAnnapolis       383941694 7
+MABoston         6175941630 1
+MILansing        1142971847 5
+MNSt. Paul       3008511849 2
+MSJackson        1735141821 1
+MOJefferson City  43079182615
+MTHelena          281901875 6
+NELincoln        2583791867 2
+NVCarson City     552741861 6
+NHConcord         426951808 3
+NJTrenton         84913178410
+NMSanta Fe        757641610 4
+NYAlbany          978561797 6
+NCRaleigh        4038921792 2
+NDBismarck        612721883 2
+OHColumbus       8225531816 1
+OKOklahoma City  5800001910 1
+ORSalem          1546371855 3
+PAHarrisburg      495281812 9
+RIProvidence     1780421900 1
+SCColumbia       1316861786 2
+SDPierre          136461889 8
+TNNashville      6357101826 1
+TXAustin         7903901839 4
+UTSalt Lake City 1864401858 1
+VTMontpelier       78551805 6
+VARichmond       2042141780 4
+WAOlympia         46478185324
+WVCharleston      514001885 1
+WIMadison        2332091838 2
+WYCheyenne        594661869 1

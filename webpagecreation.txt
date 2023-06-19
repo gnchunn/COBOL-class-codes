@@ -1,0 +1,8 @@
+sftp://mislab.business.msstate.edu
+
+Steps for creating a webpage using COBOL:
+    1. cd public_html
+    2. cobc -x -free *FileName.cbl*
+    3. mv *FileName* *FileName.cgi*
+    4. "ls" to see the directory
+    5. chmod 700 *FileName.cgi*

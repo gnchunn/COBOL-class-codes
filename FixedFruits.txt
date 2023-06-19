@@ -1,0 +1,9 @@
+Apple         100079
+Banana        125119
+Grapes        120139
+Kiwi          130175
+Lemon         130059
+Lime          150059
+Orange        300129
+Pineapple     050199
+Strawberry    400499

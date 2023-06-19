@@ -1,0 +1,10 @@
+11001Pearson             Drew                00525
+11002Pearson             Allison             01750
+11003Hodges              Julia               01225
+11004Russell             Kayla               00525
+22001McNulty             Thad                00650
+22002Logan               Buck                00700
+33001Gilligan            Thom                00995
+33002Doyle               Fred                01000
+33003Hurst               Brad                00875
+33004Wallace             Gary                00625  
